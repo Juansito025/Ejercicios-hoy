@@ -1,0 +1,16 @@
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\bin\Debug\net8.0-windows\Descuentos.exe
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\bin\Debug\net8.0-windows\Descuentos.deps.json
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\bin\Debug\net8.0-windows\Descuentos.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\bin\Debug\net8.0-windows\Descuentos.dll
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\bin\Debug\net8.0-windows\Descuentos.pdb
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.frmDescuentos.resources
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.dll
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\refint\Descuentos.dll
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.pdb
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\Descuentos.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\Descuentos\Descuentos\obj\Debug\net8.0-windows\ref\Descuentos.dll

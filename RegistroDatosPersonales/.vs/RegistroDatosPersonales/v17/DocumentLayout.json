@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|c:\\users\\estudiante\\source\\repos\\registrodatospersonales\\registrodatospersonales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|solutionrelative:registrodatospersonales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|c:\\users\\estudiante\\source\\repos\\registrodatospersonales\\registrodatospersonales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|solutionrelative:registrodatospersonales\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|c:\\users\\estudiante\\source\\repos\\registrodatospersonales\\registrodatospersonales\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40844F75-E866-4937-B3CA-CFE58498ADDF}|RegistroDatosPersonales\\RegistroDatosPersonales.csproj|solutionrelative:registrodatospersonales\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RegistroDatosPersonales\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.Designer.cs",
+              "RelativeToolTip": "RegistroDatosPersonales\\Form1.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAawGkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:06:27.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDatosPersonales\\Form1.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.cs",
+              "RelativeToolTip": "RegistroDatosPersonales\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:59:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDatosPersonales\\Form1.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\RegistroDatosPersonales\\RegistroDatosPersonales\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroDatosPersonales\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:52:01.81Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

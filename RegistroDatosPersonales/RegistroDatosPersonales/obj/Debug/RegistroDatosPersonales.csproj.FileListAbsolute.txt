@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\bin\Debug\RegistroDatosPersonales.exe.config
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\bin\Debug\RegistroDatosPersonales.exe
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\bin\Debug\RegistroDatosPersonales.pdb
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.Form1.resources
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.exe
+C:\Users\Estudiante\source\repos\RegistroDatosPersonales\RegistroDatosPersonales\obj\Debug\RegistroDatosPersonales.pdb
