@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             this.gpJugador = new System.Windows.Forms.GroupBox();
+            this.rbnPiedra = new System.Windows.Forms.RadioButton();
+            this.rbnPapel = new System.Windows.Forms.RadioButton();
+            this.rbnTijeras = new System.Windows.Forms.RadioButton();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.gpMaquina = new System.Windows.Forms.GroupBox();
+            this.rbnPiedraM = new System.Windows.Forms.RadioButton();
+            this.rbnPapelM = new System.Windows.Forms.RadioButton();
+            this.rbnTijerasM = new System.Windows.Forms.RadioButton();
             this.btnJugar = new System.Windows.Forms.Button();
             this.lblScore = new System.Windows.Forms.Label();
             this.lblScoreM = new System.Windows.Forms.Label();
             this.lblResultado = new System.Windows.Forms.Label();
-            this.rbnPiedra = new System.Windows.Forms.RadioButton();
-            this.rbnPapel = new System.Windows.Forms.RadioButton();
-            this.rbnTijeras = new System.Windows.Forms.RadioButton();
-            this.rbnPiedraM = new System.Windows.Forms.RadioButton();
-            this.rbnPapelM = new System.Windows.Forms.RadioButton();
-            this.rbnTijerasM = new System.Windows.Forms.RadioButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.txtScoreM = new System.Windows.Forms.TextBox();
             this.txtScore = new System.Windows.Forms.TextBox();
@@ -60,54 +60,6 @@
             this.gpJugador.TabIndex = 0;
             this.gpJugador.TabStop = false;
             this.gpJugador.Text = "Jugador";
-            // 
-            // gpMaquina
-            // 
-            this.gpMaquina.Controls.Add(this.rbnPiedraM);
-            this.gpMaquina.Controls.Add(this.rbnPapelM);
-            this.gpMaquina.Controls.Add(this.rbnTijerasM);
-            this.gpMaquina.Location = new System.Drawing.Point(700, 43);
-            this.gpMaquina.Name = "gpMaquina";
-            this.gpMaquina.Size = new System.Drawing.Size(268, 340);
-            this.gpMaquina.TabIndex = 0;
-            this.gpMaquina.TabStop = false;
-            this.gpMaquina.Text = "Maquina";
-            // 
-            // btnJugar
-            // 
-            this.btnJugar.Location = new System.Drawing.Point(436, 354);
-            this.btnJugar.Name = "btnJugar";
-            this.btnJugar.Size = new System.Drawing.Size(127, 55);
-            this.btnJugar.TabIndex = 0;
-            this.btnJugar.Text = "Jugar";
-            this.btnJugar.UseVisualStyleBackColor = true;
-            // 
-            // lblScore
-            // 
-            this.lblScore.AutoSize = true;
-            this.lblScore.Location = new System.Drawing.Point(26, 18);
-            this.lblScore.Name = "lblScore";
-            this.lblScore.Size = new System.Drawing.Size(38, 13);
-            this.lblScore.TabIndex = 1;
-            this.lblScore.Text = "Score:";
-            // 
-            // lblScoreM
-            // 
-            this.lblScoreM.AutoSize = true;
-            this.lblScoreM.Location = new System.Drawing.Point(737, 18);
-            this.lblScoreM.Name = "lblScoreM";
-            this.lblScoreM.Size = new System.Drawing.Size(38, 13);
-            this.lblScoreM.TabIndex = 2;
-            this.lblScoreM.Text = "Score:";
-            // 
-            // lblResultado
-            // 
-            this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(475, 292);
-            this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(48, 13);
-            this.lblResultado.TabIndex = 3;
-            this.lblResultado.Text = "Ganador";
             // 
             // rbnPiedra
             // 
@@ -143,6 +95,19 @@
             this.rbnTijeras.UseVisualStyleBackColor = true;
             this.rbnTijeras.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
+            // gpMaquina
+            // 
+            this.gpMaquina.Controls.Add(this.rbnPiedraM);
+            this.gpMaquina.Controls.Add(this.rbnPapelM);
+            this.gpMaquina.Controls.Add(this.rbnTijerasM);
+            this.gpMaquina.Enabled = false;
+            this.gpMaquina.Location = new System.Drawing.Point(700, 43);
+            this.gpMaquina.Name = "gpMaquina";
+            this.gpMaquina.Size = new System.Drawing.Size(268, 340);
+            this.gpMaquina.TabIndex = 0;
+            this.gpMaquina.TabStop = false;
+            this.gpMaquina.Text = "Maquina";
+            // 
             // rbnPiedraM
             // 
             this.rbnPiedraM.AutoSize = true;
@@ -176,6 +141,43 @@
             this.rbnTijerasM.Text = "Tijeras";
             this.rbnTijerasM.UseVisualStyleBackColor = true;
             // 
+            // btnJugar
+            // 
+            this.btnJugar.Location = new System.Drawing.Point(436, 354);
+            this.btnJugar.Name = "btnJugar";
+            this.btnJugar.Size = new System.Drawing.Size(127, 55);
+            this.btnJugar.TabIndex = 0;
+            this.btnJugar.Text = "Jugar";
+            this.btnJugar.UseVisualStyleBackColor = true;
+            this.btnJugar.Click += new System.EventHandler(this.btnJugar_Click);
+            // 
+            // lblScore
+            // 
+            this.lblScore.AutoSize = true;
+            this.lblScore.Location = new System.Drawing.Point(26, 18);
+            this.lblScore.Name = "lblScore";
+            this.lblScore.Size = new System.Drawing.Size(38, 13);
+            this.lblScore.TabIndex = 1;
+            this.lblScore.Text = "Score:";
+            // 
+            // lblScoreM
+            // 
+            this.lblScoreM.AutoSize = true;
+            this.lblScoreM.Location = new System.Drawing.Point(737, 18);
+            this.lblScoreM.Name = "lblScoreM";
+            this.lblScoreM.Size = new System.Drawing.Size(38, 13);
+            this.lblScoreM.TabIndex = 2;
+            this.lblScoreM.Text = "Score:";
+            // 
+            // lblResultado
+            // 
+            this.lblResultado.AutoSize = true;
+            this.lblResultado.Location = new System.Drawing.Point(475, 292);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(48, 13);
+            this.lblResultado.TabIndex = 3;
+            this.lblResultado.Text = "Ganador";
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Piedra_papel_o_tijera.Properties.Resources.icons8_batalla_64;
@@ -189,6 +191,7 @@
             // 
             this.txtScoreM.Location = new System.Drawing.Point(796, 15);
             this.txtScoreM.Name = "txtScoreM";
+            this.txtScoreM.ReadOnly = true;
             this.txtScoreM.Size = new System.Drawing.Size(100, 20);
             this.txtScoreM.TabIndex = 5;
             // 
@@ -196,6 +199,7 @@
             // 
             this.txtScore.Location = new System.Drawing.Point(93, 15);
             this.txtScore.Name = "txtScore";
+            this.txtScore.ReadOnly = true;
             this.txtScore.Size = new System.Drawing.Size(100, 20);
             this.txtScore.TabIndex = 6;
             // 

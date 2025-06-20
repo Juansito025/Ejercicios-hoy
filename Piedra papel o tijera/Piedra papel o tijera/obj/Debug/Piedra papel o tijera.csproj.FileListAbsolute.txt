@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.exe.config
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.exe
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\bin\Debug\Piedra papel o tijera.pdb
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra_papel_o_tijera.frmPPT.resources
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra_papel_o_tijera.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.exe
+C:\Users\Estudiante\Desktop\Ejercicios-hoy\Piedra papel o tijera\Piedra papel o tijera\obj\Debug\Piedra papel o tijera.pdb
